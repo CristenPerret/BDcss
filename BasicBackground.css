@@ -73,7 +73,7 @@
 	--header-primary: rgb(var(--textbrightest));
 	--header-secondary: rgb(var(--textbright));
 	--text-normal: rgb(var(--textbrighter));
-	--text-muted: rgb(var(--textdarker));
+	--text-muted: rgb(var(--linkcolor));
 	--channels-default: rgb(var(--textdark));
 	--interactive-normal: rgb(var(--textbright));
 	--interactive-hover: rgb(var(--textbrighter));
