@@ -13,12 +13,12 @@
 	--memberlisttransparency:		0.0;
 	
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
-	--textshadow:					transparent;
+	--textshadow:					0,0,0;
 	
 	--accentcolor:					190,78,180;
-	--accentcolor2:					var(--accentcolor);
-	--mentioncolor:					var(--accentcolor);
-	--linkcolor:					var(--accentcolor);
+	--accentcolor2:					111,179,221;
+	--mentioncolor:					111,221,153;
+	--linkcolor:					46,98,137;
 	
 	--successcolor: 				59,165,92;
 	--warningcolor: 				250,166,26;
@@ -7166,7 +7166,7 @@ html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 >
 	position: relative !important;
 }
 html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUESM.layers-1YQhyW > div.layer-86YKbF.baseLayer-W6S8cY + div.layer-86YKbF > div.standardSidebarView-E9Pc3j > div.sidebarRegion-1VBisG > div.sidebarRegionScroller-FXiQOh.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN > nav.sidebar-nqHbhN > div.side-2ur1Qk > div.info-1sUqUG::after {
-	content: "BasicBackground by" !important;
+	content: "One Piece theme by " !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
@@ -7185,7 +7185,7 @@ html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 >
 	animation: unset !important;
 }
 html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUESM.layers-1YQhyW > div.layer-86YKbF.baseLayer-W6S8cY + div.layer-86YKbF > div.standardSidebarView-E9Pc3j > div.sidebarRegion-1VBisG > div.sidebarRegionScroller-FXiQOh.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN > nav.sidebar-nqHbhN > div.side-2ur1Qk > div.info-1sUqUG::before {
-	content: "DevilBro" !important;
+	content: "Dumpsterman" !important;
 	font-size: 12px !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
